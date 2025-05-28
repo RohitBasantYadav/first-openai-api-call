@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "openai": "^4.103.0"
+  },
+  "name": "first-openai-api-call",
+  "version": "1.0.0",
+  "description": "",
+  "main": "first_call.js",
+  "devDependencies": {},
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node first_call.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
